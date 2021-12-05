@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My test site</title>
-    <link>https://AshtonSBradley.github.io/</link>
-    <description>Recent content on My test site</description>
+    <title>Home</title>
+    <link>https://ashtonsbradley.github.io/</link>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 10:21:20 +1300</lastBuildDate><atom:link href="https://AshtonSBradley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2021; All rights reserved.</copyright>
+    <lastBuildDate>Fri, 03 Dec 2021 10:21:20 +1300</lastBuildDate><atom:link href="https://ashtonsbradley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post: check it out</title>
-      <link>https://AshtonSBradley.github.io/posts/my-first-post/</link>
+      <link>https://ashtonsbradley.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 03 Dec 2021 10:21:20 +1300</pubDate>
       
-      <guid>https://AshtonSBradley.github.io/posts/my-first-post/</guid>
+      <guid>https://ashtonsbradley.github.io/posts/my-first-post/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashtonsbradley.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/about/</guid>
+      <description>Short Bio </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashtonsbradley.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/publications/</guid>
+      <description>Publications online arXiv preprints | Google Scholar | Publons | Scopus | orcid.org/0000-0002-3027-3195
+Preprints Spin-orbit- and coherently-coupled spin-1 Bose-Einstein condensates under rotation,
+Paramjeet Banger, R. Kishor Kumar, Ashton S. Bradley, Sandeep Gautam, arXiv
+Emergence of off-axis equilibria in a quantum vortex gas,
+Matthew T. Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R. Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S. Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J. Davis, Tyler W. Neely arXiv</description>
     </item>
     
   </channel>
