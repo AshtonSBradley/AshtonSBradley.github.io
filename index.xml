@@ -28,6 +28,16 @@
     
     <item>
       <title></title>
+      <link>https://ashtonsbradley.github.io/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/code/</guid>
+      <description>Code Open source for open science! More packages will come here as we develop more julia tools for computational physics.
+Julia code on Github  VortexDistributions.jl PhaseSpaceTools.jl QuantumFluidSpectra.jl ScalingDynamics.jl &amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ashtonsbradley.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -41,12 +51,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ashtonsbradley.github.io/publications/</guid>
-      <description>Publications online arXiv preprints | Google Scholar | Publons | Scopus | orcid.org/0000-0002-3027-3195
+      <description>Peer reviewed publications online arXiv preprints | Google Scholar | Publons | Scopus | orcid.org/0000-0002-3027-3195
 Preprints Spin-orbit- and coherently-coupled spin-1 Bose-Einstein condensates under rotation,
 Paramjeet Banger, R. Kishor Kumar, Ashton S. Bradley, Sandeep Gautam
 arXiv
 Emergence of off-axis equilibria in a quantum vortex gas,
-Matthew T. Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R. Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S. Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J. Davis, Tyler W. Neely</description>
+Matthew T. Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R. Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S. Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J. Davis, Tyler W.</description>
     </item>
     
     <item>
@@ -56,6 +66,15 @@ Matthew T. Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R. Stockdale, Ha
       
       <guid>https://ashtonsbradley.github.io/research/</guid>
       <description>Research </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashtonsbradley.github.io/theses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/theses/</guid>
+      <description>Student Theses BSc (Hons)  2018 Mathew Denys, Triplet Down Conversion using Optical Phase Space Methods 2017 Peter Barnett, Two-Time Correlations of an Energy-Damped Bose-Einstein Condensate 2016 Zaki Atayee, Kohn Mode Damping in a Bose-Einstein Condensate 2016 Michael Cawte, Vortex Dynamics and Spectra Fluctuations in a Superfluid Disk 2013 Rob McDonald, Decay of Persistent Current in a Two-Dimensional Superfluid 2013 Malcolm Morrison, A Quantum Kuramoto Model 2010 Kyle Wright, Decay of a dark soliton in a warm Bose-Einstein condensate: a variational approach 2009 Samuel Rooney, Single Vortex Dynamics in High Temperature Bose-Einstein Condensates  MSc  2019 Michael Cawte, Snell’s Law and Necklace States for Vortex Dipoles in a Quantum Gas 2015 Rob McDonald, C-Field Theory of Dynamics in One Dimensional Bose Gases: The Kibble-Zurek Mechanism and Bright Soliton Arrest 2013 Matthew Reeves, Inverse Energy Cascade in Two-Dimensional Quantum Turbulence 2011 Samuel Rooney, C-field description of the quasi-equilibrium Bose gas: persistent currents and Kelvon-induced vortex decay  PhD  2019 Rob McDonald, Anomalous Dissipation in Bose Gases: Analytic Theory of Energy Damping 2017 Matthew Reeves, Quantum Analogues of Two-Dimensional Classical Turbulence 2014 Sam Rooney, Implementation and Applications of the Stochastic Projected Gross-Pitaevskii Equation (Science Division Exceptional Thesis Award)  </description>
     </item>
     
   </channel>

@@ -14,6 +14,9 @@
     <loc>https://ashtonsbradley.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://ashtonsbradley.github.io/code/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://ashtonsbradley.github.io/contact/</loc>
     <priority>0</priority>
   </url><url>
@@ -21,6 +24,9 @@
     <priority>0</priority>
   </url><url>
     <loc>https://ashtonsbradley.github.io/research/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://ashtonsbradley.github.io/theses/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://ashtonsbradley.github.io/categories/</loc>
