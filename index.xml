@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
+    <title>Ashton Bradley</title>
     <link>https://ashtonsbradley.github.io/</link>
-    <description>Recent content on Home</description>
+    <description>Recent content on Ashton Bradley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021; All rights reserved.</copyright>
@@ -28,6 +28,15 @@
     
     <item>
       <title></title>
+      <link>https://ashtonsbradley.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/contact/</guid>
+      <description>Contact </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ashtonsbradley.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,6 +47,15 @@ Paramjeet Banger, R. Kishor Kumar, Ashton S. Bradley, Sandeep Gautam
 arXiv
 Emergence of off-axis equilibria in a quantum vortex gas,
 Matthew T. Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R. Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S. Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J. Davis, Tyler W. Neely</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashtonsbradley.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/research/</guid>
+      <description>Research </description>
     </item>
     
   </channel>
