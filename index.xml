@@ -32,8 +32,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ashtonsbradley.github.io/code/</guid>
-      <description>Code Open source for open science! More packages will come here as we develop more julia tools for computational physics.
-Julia code on Github  VortexDistributions.jl PhaseSpaceTools.jl QuantumFluidSpectra.jl ScalingDynamics.jl &amp;hellip;  </description>
+      <description>Code Open source for open science!
+Julia code on Github More packages will come here as we develop more julia tools for computational physics.
+ VortexDistributions.jl PhaseSpaceTools.jl QuantumFluidSpectra.jl ScalingDynamics.jl  </description>
     </item>
     
     <item>
@@ -43,6 +44,30 @@ Julia code on Github  VortexDistributions.jl PhaseSpaceTools.jl QuantumFluidSpec
       
       <guid>https://ashtonsbradley.github.io/contact/</guid>
       <description>Contact </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashtonsbradley.github.io/group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/group/</guid>
+      <description>Research Group Current students Erix Xu (MSc)
+Jordan Clark (MSc)
+Zain Mehdi (PhD ANU)
+Graduates Michael Cawte (MSc 2019)
+Rob McDonald (PhD 2019)
+Mathew Denys (Hons 2018)
+Peter Barnett (Hons 2017)
+Matthew Reeves (PhD 2017)
+Zaki Atayee (Hons 2015)
+Sam Rooney (PhD 2015)
+Malcolm Morrison (Hons 2013)
+Kyle Wright (Hons 2010)
+Research fellows and postdocs R. Kishor Kumar (RF 2020- )
+Sulka Pal (PD 2019-2021)
+Xiaoquan Yu (RF 2015-2019)
+Thomas Billam (PD 2014-2016)</description>
     </item>
     
     <item>
@@ -87,7 +112,12 @@ Matthew T. Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R. Stockdale, Ha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ashtonsbradley.github.io/theses/</guid>
-      <description>Student Theses BSc (Hons)  Mathew Denys (Otago 2018), Triplet Down Conversion using Optical Phase Space Methods Peter Barnett (Otago 2017), Two-Time Correlations of an Energy-Damped Bose-Einstein Condensate Zaki Atayee (Otago 2016), Kohn Mode Damping in a Bose-Einstein Condensate Michael Cawte (Otago 2016), Vortex Dynamics and Spectra Fluctuations in a Superfluid Disk Rob McDonald (Otago 2013), Decay of Persistent Current in a Two-Dimensional Superfluid Malcolm Morrison (Otago 2013), A Quantum Kuramoto Model Kyle Wright (Otago 2010), Decay of a dark soliton in a warm Bose-Einstein condensate: a variational approach Samuel Rooney (Otago 2009), Single Vortex Dynamics in High Temperature Bose-Einstein Condensates  MSc  Eric Xu (Otago 2021) Jordan Clark (Otago 2021) Michael Cawte (Otago 2019), Snell’s Law and Necklace States for Vortex Dipoles in a Quantum Gas Rob McDonald (Otago 2015), C-Field Theory of Dynamics in One Dimensional Bose Gases: The Kibble-Zurek Mechanism and Bright Soliton Arrest Matthew Reeves (Otago 2013), Inverse Energy Cascade in Two-Dimensional Quantum Turbulence Samuel Rooney (Otago 2011), C-field description of the quasi-equilibrium Bose gas: persistent currents and Kelvon-induced vortex decay  PhD  Rob McDonald (Otago 2019), Anomalous Dissipation in Bose Gases: Analytic Theory of Energy Damping Matthew Reeves (Otago 2017), Quantum Analogues of Two-Dimensional Classical Turbulence Sam Rooney (Otago 2014), Implementation and Applications of the Stochastic Projected Gross-Pitaevskii Equation [Science Division Exceptional Thesis Award]  </description>
+      <description>Student Theses BSc (Hons) Eric Xu (Otago 2019), Scattering of Bogoliubov waves by a quantum vortex dipole
+Mathew Denys (Otago 2018), Triplet Down Conversion using Optical Phase Space Methods
+Peter Barnett (Otago 2017), Two-Time Correlations of an Energy-Damped Bose-Einstein Condensate
+Zaki Atayee (Otago 2016), Kohn Mode Damping in a Bose-Einstein Condensate
+Michael Cawte (Otago 2016), Vortex Dynamics and Spectra Fluctuations in a Superfluid Disk
+Rob McDonald (Otago 2013), Decay of Persistent Current in a Two-Dimensional Superfluid</description>
     </item>
     
   </channel>
