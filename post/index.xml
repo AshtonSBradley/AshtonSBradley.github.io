@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021; All rights reserved.</copyright>
-    <lastBuildDate>Fri, 03 Dec 2021 10:21:20 +1300</lastBuildDate><atom:link href="https://ashtonsbradley.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashtonsbradley.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Paper published</title>
+      <title>Spectral analysis for compressible quantum fluids</title>
       <link>https://ashtonsbradley.github.io/post/my-first-post/</link>
-      <pubDate>Fri, 03 Dec 2021 10:21:20 +1300</pubDate>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ashtonsbradley.github.io/post/my-first-post/</guid>
-      <description>Our work on &amp;hellip; appeared in &amp;hellip;</description>
+      <description>We have a new manuscript out on spectral analysis for compressible quantum fluids. We develop a rigorous formulation of the spectral density problem with formal and numerical advantages. It can be used to calculate accurate spectral densities and correlation functions for compressible and incompressible velocity fields. Check it out at https://arxiv.org/abs/2112.04012</description>
     </item>
     
   </channel>
