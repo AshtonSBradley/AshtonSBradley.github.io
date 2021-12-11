@@ -52,7 +52,7 @@
       <guid>https://ashtonsbradley.github.io/code/</guid>
       <description>Code Open source for open science!
 Julia code on Github More packages will come here as we develop more julia tools for computational physics.
- VortexDistributions.jl PhaseSpaceTools.jl QuantumFluidSpectra.jl ScalingDynamics.jl  </description>
+ VortexDistributions.jl PhaseSpaceTools.jl FourierGPE.jl QuantumFluidSpectra.jl ScalingDynamics.jl  </description>
     </item>
     
     <item>
