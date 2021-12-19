@@ -26,19 +26,19 @@
     <loc>https://ashtonsbradley.github.io/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://ashtonsbradley.github.io/courses/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://ashtonsbradley.github.io/group/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://ashtonsbradley.github.io/media/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://ashtonsbradley.github.io/people/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://ashtonsbradley.github.io/publications/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://ashtonsbradley.github.io/research/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://ashtonsbradley.github.io/teaching/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://ashtonsbradley.github.io/theses/</loc>

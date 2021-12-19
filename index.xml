@@ -71,29 +71,20 @@ Dunedin 9016, New Zealand
     
     <item>
       <title></title>
-      <link>https://ashtonsbradley.github.io/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashtonsbradley.github.io/courses/</guid>
-      <description>Courses 2022  PHSI365 Computational Physics ELEC441 Linear Systems and Noise PHSI222 Electromagnetism  2021  PHSI331 Quantum Mechanics PHSI365 Computational Physics ELEC441 Linear Systems and Noise PHSI222 Electromagnetism  2020  PHSI365 Computational Physics ELEC441 Linear Systems and Noise  2019  PHSI331 Quantum Mechanics PHSI365 Computational Physics  2018  PHSI331 Quantum Mechanics PHSI365 Computational Physics ELEC424 Advanced Quantum Mechanics II  2017  PHSI132 Fundamentals of Modern Physics PHSI365 Computational Physics PHSI331 Quantum Mechanics ELEC424 Advanced Quantum Mechanics II  2016  PHSI365 Computational Physics  2015  PHSI331 Quantum Mechanics  2013  PHSI336 Mathematical Physics  2012  PHSI334 Advanced Topics  2011  PHSI334 Advanced Topics  2010  PHSI334 Advanced Topics  2009  PHSI453 Advanced Quantum Mechanics  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ashtonsbradley.github.io/group/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashtonsbradley.github.io/group/</guid>
-      <description>Research Group Current students  Tim Copland (Summer) Erix Xu (MSc) Jordan Clark (MSc) Zain Mehdi (PhD ANU)  Graduates  Michael Cawte (MSc 2019) Rob McDonald (PhD 2019) Mathew Denys (Hons 2018) Peter Barnett (Hons 2017) Matthew Reeves (PhD 2017) Zaki Atayee (Hons 2015) Tom Blennerhassett (Hons 2015) Sam Rooney (PhD 2015) Malcolm Morrison (Hons 2013) Kyle Wright (Hons 2010)  Research fellows and postdocs  R. Kishor Kumar (RF 2020- ) Sulka Pal (PD 2019-2021) Xiaoquan Yu (RF 2015-2019) Thomas Billam (PD 2014-2016)  Externally Funded Visiting Researchers  Murray Olsen, Quantum Science Otago and Dodd-Walls Fellow 2017-2018 Stuart Szigeti, Australian Research Council Endeavour Fellowship 2017 Jinyan Li, Chinese Scholarship Council Fellow 2017 Chao-Fei Liu, Chinese Scholarship Council Fellow 2015  Research Grants  PI for Dodd-Walls project SO1 — Clusters, cascades, and dissipation in quantum turbulence PI on DWC I Marsden Grant Marsden Fast Start Rutherford Discovery Fellowship NZFRST Postdoctoral Fellowship UQ Fellowship  </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://ashtonsbradley.github.io/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ashtonsbradley.github.io/media/</guid>
       <description>Media  New findings on Fluid Turbulence, Ashton Bradley on Nights with Bryan Crump, Radio New Zealand 2019 Otago–Queensland researchers observe 70-year-old prediction, with wide-reaching effects Order emerges from chaos in 2D vortices, Ashton Bradley in Physics Today 2019 Quantum Entanglement at an Individual Atom Scale, Ashton Bradley work with Mikkel Anderson&amp;rsquo;s group in DWC annual report 2018 Emergent Non-Eulerian Hydrodynamics of Quantum Vortices in Two Dimensions, Asia-Pacific Physics News Letter, p 60 Otago Research Helping to Unlock Superfluid Mysteries, Ashton Bradley in Otago Daily Times 2015 Rutherford Discovery Fellowship, Ashton Bradley in Otago Daily Times 2010 Quantum Whirlpools, Ashton Bradley and Crispin Gardiner on Our Changing World with Veronika Meduna, Radio New Zealand 2008 Vortices spontaneously arise as a Bose-Einstein condensate forms, Ashton Bradley in Physics Today 2008 Teleportation method proposed by Australian scientists, Ashton Bradley in Physics.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashtonsbradley.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/people/</guid>
+      <description>People Current students  Tim Copland (Summer) Erix Xu (MSc) Jordan Clark (MSc) Zain Mehdi (PhD ANU)  Graduates  Michael Cawte (MSc 2019) Rob McDonald (PhD 2019) Mathew Denys (Hons 2018) Peter Barnett (Hons 2017) Matthew Reeves (PhD 2017) Zaki Atayee (Hons 2015) Tom Blennerhassett (Hons 2015) Sam Rooney (PhD 2015) Malcolm Morrison (Hons 2013) Kyle Wright (Hons 2010)  Research fellows and postdocs  R. Kishor Kumar (RF 2020- ) Sulka Pal (PD 2019-2021) Xiaoquan Yu (RF 2015-2019) Thomas Billam (PD 2014-2016)  Externally Funded Visiting Researchers  Murray Olsen, Quantum Science Otago and Dodd-Walls Fellow 2017-2018 Stuart Szigeti, Australian Research Council Endeavour Fellowship 2017 Jinyan Li, Chinese Scholarship Council Fellow 2017 Chao-Fei Liu, Chinese Scholarship Council Fellow 2015  Research Grants  PI for Dodd-Walls project SO1 — Clusters, cascades, and dissipation in quantum turbulence PI on DWC I Marsden Grant Marsden Fast Start Rutherford Discovery Fellowship NZFRST Postdoctoral Fellowship UQ Fellowship  </description>
     </item>
     
     <item>
@@ -121,6 +112,15 @@ Matthew T. Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R. Stockdale, Ha
       <guid>https://ashtonsbradley.github.io/research/</guid>
       <description>Research A full list of publications can be found here or on Google Scholar. Some of our results are outlined below.
  Quantum Turbulence We have explored a number of classical fluid turbulence phenomena in the context of planar quantum fluids. Key questions are the degree of overlap between classical and quantum fluid phenomena, whether fully developed quantum turbulence can be created and characterized in Bose-Einstein condensates, and the quantum nature of energy transport, spectral condensation, velocity correlations, and other measures of turbulent flows.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ashtonsbradley.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashtonsbradley.github.io/teaching/</guid>
+      <description>Teaching 2022  PHSI365 Computational Physics ELEC441 Linear Systems and Noise PHSI222 Electromagnetism  2021  PHSI331 Quantum Mechanics PHSI365 Computational Physics ELEC441 Linear Systems and Noise PHSI222 Electromagnetism  2020  PHSI365 Computational Physics ELEC441 Linear Systems and Noise  2019  PHSI331 Quantum Mechanics PHSI365 Computational Physics  2018  PHSI331 Quantum Mechanics PHSI365 Computational Physics ELEC424 Advanced Quantum Mechanics II  2017  PHSI132 Fundamentals of Modern Physics PHSI365 Computational Physics PHSI331 Quantum Mechanics ELEC424 Advanced Quantum Mechanics II  2016  PHSI365 Computational Physics  2015  PHSI331 Quantum Mechanics  2013  PHSI336 Mathematical Physics  2012  PHSI334 Advanced Topics  2011  PHSI334 Advanced Topics  2010  PHSI334 Advanced Topics  2009  PHSI453 Advanced Quantum Mechanics  </description>
     </item>
     
     <item>
